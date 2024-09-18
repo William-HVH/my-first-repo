@@ -1,3 +1,2 @@
 # my-first-repo
-Hello world
-You're still shining
+Hello world, and you're still shining
